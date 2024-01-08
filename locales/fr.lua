@@ -66,7 +66,7 @@ local Translations = {
     },
     general = {
         testdrive_timer = "Temps restant: ",
-        vehinteraction = "Intéraction véhicule",
+        vehinteraction = "Interaction véhicule",
         testdrive_timenoti = "Il vous reste %{testdrivetime} minutes",
         testdrive_complete = "Vous avez terminé le test",
         paymentduein = "Paiement du prêt requis avant %{time} minutes",
