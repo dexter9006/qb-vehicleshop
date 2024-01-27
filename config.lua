@@ -287,7 +287,7 @@ Config.Shops = {
     },
     -- Vitto
     ['jobconcess'] = {
-        ['Type'] = 'managed', -- meaning a real player has to sell the car
+        ['Type'] = 'managed', -- meaning a real player has to sell the car ('free-use' OR 'managed')
         ['Zone'] = {
             ['Shape'] = {
                 vector2(-929.48, -2216.03),
