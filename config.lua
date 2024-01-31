@@ -253,7 +253,7 @@ Config.Shops = {
             ['size'] = 5.75                                          -- size of the vehicles zones
         },
         ['Job'] = 'none',                                            -- Name of job or none
-        ['ShopLabel'] = 'Concession Poids Lourds',                   -- Blip name
+        ['ShopLabel'] = 'Concessionaire Poids Lourds',                   -- Blip name
         ['showBlip'] = true,                                         -- true or false
         ['blipSprite'] = 477,                                        -- Blip sprite
         ['blipColor'] = 2,                                           -- Blip color
@@ -297,9 +297,9 @@ Config.Shops = {
                 vector2(-951.82, -2249.71),
                 vector2(-957.45, -2243.97),
             },
-            ['minZ'] = 7.0,
+            ['minZ'] = 8.0,
             ['maxZ'] = 9.0,
-            ['size'] = 2.75 -- size of the vehicles zones
+            ['size'] = 3.5 -- size of the vehicles zones
         },
         ['Job'] = 'cardealerjob', -- Name of job or none
         ['ShopLabel'] = 'Concessionaire Job',
