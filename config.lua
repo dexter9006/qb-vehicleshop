@@ -126,21 +126,6 @@ Config.Shops = {
                 defaultVehicle = 'nero',
                 chosenVehicle = 'nero'
             },
-            [4] = {
-                coords = vector4(-1252.07, -364.2, 35.91, 56.44),
-                defaultVehicle = 'yz250f',
-                chosenVehicle = 'yz250f'
-            },
-            [5] = {
-                coords = vector4(-1255.49, -365.91, 35.91, 55.63),
-                defaultVehicle = 'rc',
-                chosenVehicle = 'rc'
-            },
-            [6] = {
-                coords = vector4(-1249.21, -362.97, 35.91, 53.24),
-                defaultVehicle = 'bmws',
-                chosenVehicle = 'bmws'
-            },
         }
     },                         -- Add your next table under this comma
     ['boats'] = {
